@@ -1,0 +1,472 @@
+<site version="3.0" sitemap="1" siteurl="http://www.rajeevreddy.com/"><css/><components><Component type="3" id="g_image1" zorder="1" filename="image326343733" left="789" top="7" width="429" height="276" originwidth="429" originheight="276" src="E:\Rajeev Personal Website\Capture.JPG" previewfile="E:\Rajeev Personal Website\Capture.JPG" thumbname="thumb326433652" resamplename="img326433652" exportfilename="images/Capture.JPG" lock="0" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" changefilename="0" alt="" ratio="0" fp="0" include="p321606029,p333874338,p350051251,p350383331,p350391911,p350417854,p350427058"/></components><page id="p321606029" pageindex="0" name="index" pp="0" cp="0" Freq="4" Priority="6"><body bgoutput="" bgsoutput="" generator="0" bgsoundloop="-1" align="0" backgroundcolor="#FFFFFF" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" title="Home"><Component type="4" id="shape1" zorder="0" filename="shape325520703" width="1362" height="285" bgcolor="#424441" previewfile="" left="0" top="0" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape325520703.png" fp="0"/><Component type="2" id="text1" zorder="2" filename="text325788899" left="186" top="69" width="652" height="143" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:48px;"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws36"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpSYWplZXYgUmVk
+ZHkgQmhlZW1pcmVkZHkNCg==
+</rvf></Component><Component id="g_image1" zorder="1" global="1"/><Component type="12" id="html1" zorder="6" filename="html331364984" script="&lt;a href=&quot;http://www.freecounterstat.com&quot; title=&quot;website hit counter&quot;&gt;&lt;img src=&quot;http://counter6.statcounterfree.com/private/freecounterstat.php?c=da63c824083677e794062ecd37b3e11b&quot; border=&quot;0&quot; title=&quot;website hit counter&quot; alt=&quot;website hit counter&quot;&gt;&lt;/a&gt;" width="200" height="125" left="1086" top="537" selected="1"/><Component type="5" id="nav1" zorder="3" filename="nav332588593" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05in.gif" mouseoverimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05over.gif" mouseoversound="" navtext0="Home" navurl0="page://p321606029" navtarget0="" navstate0="0" navtext1="Areas of Interest" navurl1="page://p333874338" navtarget1="" navstate1="0" navtext2="Work Experience" navtarget2="" navstate2="0" navtext3="Academic Projects" navtarget3="" navstate3="0" navtext4="Skills" navtarget4="" navstate4="0" navtext5="Hobbies" navtarget5="" navstate5="0" navtext6="Contact " navtarget6="" navstate6="0" navcount="7" width="180" height="231" preview="C:\Users\Rajeev\AppData\Local\Temp\Web Page Maker\doc2U3V4\NavB5RNE" left="25" top="361" fp="0" exportfilename="images/nav332588593" exportsound=""/><Component type="2" id="text2" zorder="4" filename="text332960718" left="255" top="359" width="181" height="52" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" style="font-size:37px;"&gt;&lt;B&gt;About Me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" class="ws28"&gt;&lt;B&gt;About Me&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCHAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xC
+bGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkFib3V0IE1l
+DQo=
+</rvf></Component><Component type="2" id="text3" zorder="5" filename="text333082508" left="252" top="426" width="806" height="172" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;I am actively looking for a job as of now. I currently live in Netherlands and willing to move to any part of the world. I come from a town called Anantapur which is near to Banglore in southern part of India. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;I have recently graduated from Technical University Delft (TU Delft) with Masters in Sustainable energy technologies (25-08-2014). My specialization was in photovoltaic systems. During my master thesis, I have worked on design and feasibility study of building integrated photovoltaic systems on EEMCS (Electrical Engineering, Mathematics and Computer Science) complex of TU Delft. I have done my Bachelor of engineering in Electrical and Electronics at Vellore Institute of Technology, India. &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;I am actively looking for a job as of now. I currently live in Netherlands and willing to move to any part of the world. I come from a town called Anantapur which is near to Banglore in southern part of India. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;I have recently graduated from Technical University Delft (TU Delft) with Masters in Sustainable energy technologies (25-08-2014). My specialization was in photovoltaic systems. During my master thesis, I have worked on design and feasibility study of building integrated photovoltaic systems on EEMCS (Electrical Engineering, Mathematics and Computer Science) complex of TU Delft. I have done my Bachelor of engineering in Electrical and Electronics at Vellore Institute of Technology, India. &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMyA0IDAgMCAwDQpJIGFtIGFjdGl2ZWx5IGxvb2tpbmcg
+Zm9yIGEgam9iIGFzIG9mIG5vdy4gSSBjdXJyZW50bHkgbGl2ZSBpbiBOZXRoZXJsYW5kcyBhbmQg
+d2lsbGluZyB0byBtb3ZlIHRvIGFueSBwYXJ0IG9mIHRoZSB3b3JsZC4gSSBjb21lIGZyb20gYSB0
+b3duIGNhbGxlZCBBbmFudGFwdXIgd2hpY2ggaXMgbmVhciB0byBCYW5nbG9yZSBpbiBzb3V0aGVy
+biBwYXJ0IG9mIEluZGlhLiANCg0KSSBoYXZlIHJlY2VudGx5IGdyYWR1YXRlZCBmcm9tIFRlY2hu
+aWNhbCBVbml2ZXJzaXR5IERlbGZ0IChUVSBEZWxmdCkgd2l0aCBNYXN0ZXJzIGluIFN1c3RhaW5h
+YmxlIGVuZXJneSB0ZWNobm9sb2dpZXMgKDI1LTA4LTIwMTQpLiBNeSBzcGVjaWFsaXphdGlvbiB3
+YXMgaW4gcGhvdG92b2x0YWljIHN5c3RlbXMuIER1cmluZyBteSBtYXN0ZXIgdGhlc2lzLCBJIGhh
+dmUgd29ya2VkIG9uIGRlc2lnbiBhbmQgZmVhc2liaWxpdHkgc3R1ZHkgb2YgYnVpbGRpbmcgaW50
+ZWdyYXRlZCBwaG90b3ZvbHRhaWMgc3lzdGVtcyBvbiBFRU1DUyAoRWxlY3RyaWNhbCBFbmdpbmVl
+cmluZywgTWF0aGVtYXRpY3MgYW5kIENvbXB1dGVyIFNjaWVuY2UpIGNvbXBsZXggb2YgVFUgRGVs
+ZnQuIEkgaGF2ZSBkb25lIG15IEJhY2hlbG9yIG9mIGVuZ2luZWVyaW5nIGluIEVsZWN0cmljYWwg
+YW5kIEVsZWN0cm9uaWNzIGF0IFZlbGxvcmUgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIEluZGlh
+LiANCg==
+</rvf></Component></body></page><page id="p333874338" pageindex="1" name="AOI" pp="0" cp="0" Freq="4" Priority="6"><body bgoutput="" bgsoutput="" generator="0" bgsoundloop="-1" align="0" backgroundcolor="" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" title="Areas of Interest"><Component type="4" id="shape1" zorder="0" filename="shape333874338" width="1362" height="295" bgcolor="#424441" previewfile="" left="0" top="0" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape333874338.png" fp="0"/><Component type="2" id="text1" zorder="6" filename="text333874338" left="186" top="69" width="652" height="143" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:48px;"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws36"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpSYWplZXYgUmVk
+ZHkgQmhlZW1pcmVkZHkNCg==
+</rvf></Component><Component type="12" id="html1" zorder="1" filename="html333874338" script="&lt;a href=&quot;http://www.freecounterstat.com&quot; title=&quot;website hit counter&quot;&gt;&lt;img src=&quot;http://counter6.statcounterfree.com/private/freecounterstat.php?c=da63c824083677e794062ecd37b3e11b&quot; border=&quot;0&quot; title=&quot;website hit counter&quot; alt=&quot;website hit counter&quot;&gt;&lt;/a&gt;" width="200" height="125" left="1157" top="579"/><Component type="5" id="nav1" zorder="2" filename="nav333874338" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05in.gif" mouseoverimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05over.gif" mouseoversound="" navtext0="Home" navurl0="page://p321606029" navtarget0="" navstate0="0" navtext1="Areas of Interest" navurl1="page://p333874338" navtarget1="" navstate1="0" navtext2="Work Experience" navurl2="page://p350051251" navtarget2="" navstate2="0" navtext3="Academic Projects" navurl3="page://p350383331" navtarget3="" navstate3="0" navtext4="Skills" navurl4="page://p350391911" navtarget4="" navstate4="0" navtext5="Hobbies" navurl5="page://p350417854" navtarget5="" navstate5="0" navtext6="Contact " navurl6="page://p350427058" navtarget6="" navstate6="0" navcount="7" width="180" height="231" preview="C:\Users\Rajeev\AppData\Local\Temp\Web Page Maker\doc2U3V4\NavDJAO2" left="86" top="367" fp="0" exportfilename="images/nav333874338" exportsound=""/><Component type="2" id="text2" zorder="3" filename="text333874338" left="317" top="357" width="267" height="52" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" style="font-size:37px;"&gt;&lt;B&gt;Areas of Interest&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" class="ws28"&gt;&lt;B&gt;Areas of Interest&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCHAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xC
+bGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkFyZWFzIG9m
+IEludGVyZXN0DQo=
+</rvf></Component><Component type="2" id="text3" zorder="5" filename="text333874338" left="321" top="427" width="806" height="172" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSA0IDAgMCAwDQoNCg==
+</rvf></Component><Component id="g_image1" zorder="4" global="1"/></body></page><page id="p350051251" pageindex="2" name="Work" pp="0" cp="0" Freq="4" Priority="6"><body bgoutput="" bgsoutput="" generator="0" bgsoundloop="-1" align="0" backgroundcolor="" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" title="Work Experience"><Component type="4" id="shape1" zorder="0" filename="shape350051267" width="1362" height="295" bgcolor="#424441" previewfile="" left="0" top="0" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape350051267.png" fp="0"/><Component type="2" id="text1" zorder="6" filename="text350051267" left="186" top="69" width="652" height="143" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:48px;"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws36"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpSYWplZXYgUmVk
+ZHkgQmhlZW1pcmVkZHkNCg==
+</rvf></Component><Component type="12" id="html1" zorder="1" filename="html350051267" script="&lt;a href=&quot;http://www.freecounterstat.com&quot; title=&quot;website hit counter&quot;&gt;&lt;img src=&quot;http://counter6.statcounterfree.com/private/freecounterstat.php?c=da63c824083677e794062ecd37b3e11b&quot; border=&quot;0&quot; title=&quot;website hit counter&quot; alt=&quot;website hit counter&quot;&gt;&lt;/a&gt;" width="200" height="125" left="1157" top="579"/><Component type="5" id="nav1" zorder="2" filename="nav350051251" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05in.gif" mouseoverimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05over.gif" mouseoversound="" navtext0="Home" navurl0="page://p321606029" navtarget0="" navstate0="0" navtext1="Areas of Interest" navurl1="page://p333874338" navtarget1="" navstate1="0" navtext2="Work Experience" navurl2="page://p350051251" navtarget2="" navstate2="0" navtext3="Academic Projects" navurl3="page://p350383331" navtarget3="" navstate3="0" navtext4="Skills" navurl4="page://p350391911" navtarget4="" navstate4="0" navtext5="Hobbies" navurl5="page://p350417854" navtarget5="" navstate5="0" navtext6="Contact " navurl6="page://p350427058" navtarget6="" navstate6="0" navcount="7" width="180" height="231" preview="C:\Users\Rajeev\AppData\Local\Temp\Web Page Maker\doc2U3V4\Nav4HQFG" left="86" top="367" fp="0" exportfilename="images/nav350051251" exportsound=""/><Component type="2" id="text2" zorder="3" filename="text350051251" left="317" top="357" width="267" height="52" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" style="font-size:37px;"&gt;&lt;B&gt;Work Experience&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" class="ws28"&gt;&lt;B&gt;Work Experience&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCHAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xC
+bGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCldvcmsgRXhw
+ZXJpZW5jZQ0K
+</rvf></Component><Component type="2" id="text3" zorder="4" filename="text350051251" left="321" top="427" width="806" height="172" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSA0IDAgMCAwDQoNCg==
+</rvf></Component><Component id="g_image1" zorder="5" global="1"/></body></page><page id="p350383331" pageindex="3" name="Acad" pp="0" cp="0" Freq="4" Priority="6"><body bgoutput="" bgsoutput="" generator="0" bgsoundloop="-1" align="0" backgroundcolor="" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" title="Academic Projects"><Component type="4" id="shape1" zorder="0" filename="shape350383331" width="1362" height="295" bgcolor="#424441" previewfile="" left="0" top="0" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape350383331.png" fp="0"/><Component type="2" id="text1" zorder="5" filename="text350383331" left="186" top="69" width="652" height="143" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:48px;"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws36"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpSYWplZXYgUmVk
+ZHkgQmhlZW1pcmVkZHkNCg==
+</rvf></Component><Component type="5" id="nav1" zorder="1" filename="nav350383331" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05in.gif" mouseoverimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05over.gif" mouseoversound="" navtext0="Home" navurl0="page://p321606029" navtarget0="" navstate0="0" navtext1="Areas of Interest" navurl1="page://p333874338" navtarget1="" navstate1="0" navtext2="Work Experience" navurl2="page://p350051251" navtarget2="" navstate2="0" navtext3="Academic Projects" navurl3="page://p350383331" navtarget3="" navstate3="0" navtext4="Skills" navurl4="page://p350391911" navtarget4="" navstate4="0" navtext5="Hobbies" navurl5="page://p350417854" navtarget5="" navstate5="0" navtext6="Contact " navurl6="page://p350427058" navtarget6="" navstate6="0" navcount="7" width="180" height="231" preview="C:\Users\Rajeev\AppData\Local\Temp\Web Page Maker\doc2U3V4\NavAE89T" left="86" top="367" fp="0" exportfilename="images/nav350383331" exportsound=""/><Component type="2" id="text2" zorder="2" filename="text350383331" left="317" top="357" width="288" height="52" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" style="font-size:37px;"&gt;&lt;B&gt;Academic Projects&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" class="ws28"&gt;&lt;B&gt;Academic Projects&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCHAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xC
+bGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkFjYWRlbWlj
+IFByb2plY3RzDQo=
+</rvf></Component><Component type="2" id="text3" zorder="3" filename="text350383331" left="321" top="427" width="821" height="457" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;Technical University, Delft&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;A design and feasibility study of Building Integrated Photo-Voltaic system on EEMCS complex&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;Dec 2013 - Aug 2014&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;In this project, a methodology is developed to determine the feasibility of Building Integrated Photo-Voltaics (BIPV) on any building and the same is applied on EEMCS complex of TU Delft. The methodology contains the following elements: (i) analysis of eligible surfaces on the building; (ii) performing shading analysis on each surface with the help of SketchUp 3D program; (iii) working out annual solar irradiation on these surfaces; (iv) choosing optimal PV modules and modelling module temperature and its electrical characteristics; (v) and optimizing the PV system for maximum electricity yield by grouping the modules to an appropriate inverter. All the above simulations are performed with the help of Python.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;Technical University, Delft&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;Design of an autonomous off grid system involving distributed renewable energy sources&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;Feb 2013 - Apr 2013 &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;- The end goal of this project is to design an autonomous off grid power system capable of providing energy to 10 households, using renewable energies such as Wind, Solar and Bio fuels.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;- The components such as Wind turbine generator, Bio fuels generator and Battery has been modeled with the help of Matlab/Simulink. A control system was also designed to control various power flows.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;- The model has been run for various scenarios such as normal and extreme operational conditions and were used to prove the reliability of the model.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;Technical University, Delft&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;A design and feasibility study of Building Integrated Photo-Voltaic system on EEMCS complex&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;Dec 2013 - Aug 2014&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;In this project, a methodology is developed to determine the feasibility of Building Integrated Photo-Voltaics (BIPV) on any building and the same is applied on EEMCS complex of TU Delft. The methodology contains the following elements: (i) analysis of eligible surfaces on the building; (ii) performing shading analysis on each surface with the help of SketchUp 3D program; (iii) working out annual solar irradiation on these surfaces; (iv) choosing optimal PV modules and modelling module temperature and its electrical characteristics; (v) and optimizing the PV system for maximum electricity yield by grouping the modules to an appropriate inverter. All the above simulations are performed with the help of Python.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;Technical University, Delft&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;Design of an autonomous off grid system involving distributed renewable energy sources&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;Feb 2013 - Apr 2013 &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;- The end goal of this project is to design an autonomous off grid power system capable of providing energy to 10 households, using renewable energies such as Wind, Solar and Bio fuels.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;- The components such as Wind turbine generator, Bio fuels generator and Battery has been modeled with the help of Matlab/Simulink. A control system was also designed to control various power flows.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;- The model has been run for various scenarios such as normal and extreme operational conditions and were used to prove the reliability of the model.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQovAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDgVTdHlsZQsGZnNCb2xkAAAALTkgMiAw
+IDAgMiAwIDINCnJ2cw0KUAEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFk
+T25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0
+eWxlTmFtZQYKTGVmdCBBbGlnbghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlv
+bnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMyA0IDAgMCAwDQpUZWNo
+bmljYWwgVW5pdmVyc2l0eSwgRGVsZnQNCkEgZGVzaWduIGFuZCBmZWFzaWJpbGl0eSBzdHVkeSBv
+ZiBCdWlsZGluZyBJbnRlZ3JhdGVkIFBob3RvLVZvbHRhaWMgc3lzdGVtIG9uIEVFTUNTIGNvbXBs
+ZXgNCkRlYyAyMDEzIC0gQXVnIDIwMTQNCjMgMyA0IDAgMCAwDQoNCkluIHRoaXMgcHJvamVjdCwg
+YSBtZXRob2RvbG9neSBpcyBkZXZlbG9wZWQgdG8gZGV0ZXJtaW5lIHRoZSBmZWFzaWJpbGl0eSBv
+ZiBCdWlsZGluZyBJbnRlZ3JhdGVkIFBob3RvLVZvbHRhaWNzIChCSVBWKSBvbiBhbnkgYnVpbGRp
+bmcgYW5kIHRoZSBzYW1lIGlzIGFwcGxpZWQgb24gRUVNQ1MgY29tcGxleCBvZiBUVSBEZWxmdC4g
+VGhlIG1ldGhvZG9sb2d5IGNvbnRhaW5zIHRoZSBmb2xsb3dpbmcgZWxlbWVudHM6IChpKSBhbmFs
+eXNpcyBvZiBlbGlnaWJsZSBzdXJmYWNlcyBvbiB0aGUgYnVpbGRpbmc7IChpaSkgcGVyZm9ybWlu
+ZyBzaGFkaW5nIGFuYWx5c2lzIG9uIGVhY2ggc3VyZmFjZSB3aXRoIHRoZSBoZWxwIG9mIFNrZXRj
+aFVwIDNEIHByb2dyYW07IChpaWkpIHdvcmtpbmcgb3V0IGFubnVhbCBzb2xhciBpcnJhZGlhdGlv
+biBvbiB0aGVzZSBzdXJmYWNlczsgKGl2KSBjaG9vc2luZyBvcHRpbWFsIFBWIG1vZHVsZXMgYW5k
+IG1vZGVsbGluZyBtb2R1bGUgdGVtcGVyYXR1cmUgYW5kIGl0cyBlbGVjdHJpY2FsIGNoYXJhY3Rl
+cmlzdGljczsgKHYpIGFuZCBvcHRpbWl6aW5nIHRoZSBQViBzeXN0ZW0gZm9yIG1heGltdW0gZWxl
+Y3RyaWNpdHkgeWllbGQgYnkgZ3JvdXBpbmcgdGhlIG1vZHVsZXMgdG8gYW4gYXBwcm9wcmlhdGUg
+aW52ZXJ0ZXIuIEFsbCB0aGUgYWJvdmUgc2ltdWxhdGlvbnMgYXJlIHBlcmZvcm1lZCB3aXRoIHRo
+ZSBoZWxwIG9mIFB5dGhvbi4NCg0KNCAzIDQgMCAwIDANClRlY2huaWNhbCBVbml2ZXJzaXR5LCBE
+ZWxmdA0KRGVzaWduIG9mIGFuIGF1dG9ub21vdXMgb2ZmIGdyaWQgc3lzdGVtIGludm9sdmluZyBk
+aXN0cmlidXRlZCByZW5ld2FibGUgZW5lcmd5IHNvdXJjZXMNCkZlYiAyMDEzIC0gQXByIDIwMTMg
+DQozIDQgNCAwIDAgMA0KDQotIFRoZSBlbmQgZ29hbCBvZiB0aGlzIHByb2plY3QgaXMgdG8gZGVz
+aWduIGFuIGF1dG9ub21vdXMgb2ZmIGdyaWQgcG93ZXIgc3lzdGVtIGNhcGFibGUgb2YgcHJvdmlk
+aW5nIGVuZXJneSB0byAxMCBob3VzZWhvbGRzLCB1c2luZyByZW5ld2FibGUgZW5lcmdpZXMgc3Vj
+aCBhcyBXaW5kLCBTb2xhciBhbmQgQmlvIGZ1ZWxzLg0KLSBUaGUgY29tcG9uZW50cyBzdWNoIGFz
+IFdpbmQgdHVyYmluZSBnZW5lcmF0b3IsIEJpbyBmdWVscyBnZW5lcmF0b3IgYW5kIEJhdHRlcnkg
+aGFzIGJlZW4gbW9kZWxlZCB3aXRoIHRoZSBoZWxwIG9mIE1hdGxhYi9TaW11bGluay4gQSBjb250
+cm9sIHN5c3RlbSB3YXMgYWxzbyBkZXNpZ25lZCB0byBjb250cm9sIHZhcmlvdXMgcG93ZXIgZmxv
+d3MuDQotIFRoZSBtb2RlbCBoYXMgYmVlbiBydW4gZm9yIHZhcmlvdXMgc2NlbmFyaW9zIHN1Y2gg
+YXMgbm9ybWFsIGFuZCBleHRyZW1lIG9wZXJhdGlvbmFsIGNvbmRpdGlvbnMgYW5kIHdlcmUgdXNl
+ZCB0byBwcm92ZSB0aGUgcmVsaWFiaWxpdHkgb2YgdGhlIG1vZGVsLg0K
+</rvf></Component><Component id="g_image1" zorder="4" global="1"/></body></page><page id="p350391911" pageindex="4" name="skills" pp="0" cp="0" Freq="4" Priority="6"><body bgoutput="" bgsoutput="" generator="0" bgsoundloop="-1" align="0" backgroundcolor="" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" title="Skills"><Component type="4" id="shape1" zorder="0" filename="shape350391926" width="1362" height="295" bgcolor="#424441" previewfile="" left="0" top="0" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape350391926.png" fp="0"/><Component type="2" id="text1" zorder="6" filename="text350391926" left="186" top="69" width="652" height="143" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:48px;"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws36"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpSYWplZXYgUmVk
+ZHkgQmhlZW1pcmVkZHkNCg==
+</rvf></Component><Component type="12" id="html1" zorder="1" filename="html350391926" script="&lt;a href=&quot;http://www.freecounterstat.com&quot; title=&quot;website hit counter&quot;&gt;&lt;img src=&quot;http://counter6.statcounterfree.com/private/freecounterstat.php?c=da63c824083677e794062ecd37b3e11b&quot; border=&quot;0&quot; title=&quot;website hit counter&quot; alt=&quot;website hit counter&quot;&gt;&lt;/a&gt;" width="200" height="125" left="1157" top="579"/><Component type="5" id="nav1" zorder="2" filename="nav350391926" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05in.gif" mouseoverimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05over.gif" mouseoversound="" navtext0="Home" navurl0="page://p321606029" navtarget0="" navstate0="0" navtext1="Areas of Interest" navurl1="page://p333874338" navtarget1="" navstate1="0" navtext2="Work Experience" navurl2="page://p350051251" navtarget2="" navstate2="0" navtext3="Academic Projects" navurl3="page://p350383331" navtarget3="" navstate3="0" navtext4="Skills" navurl4="page://p350391911" navtarget4="" navstate4="0" navtext5="Hobbies" navurl5="page://p350417854" navtarget5="" navstate5="0" navtext6="Contact " navurl6="page://p350427058" navtarget6="" navstate6="0" navcount="7" width="180" height="231" preview="C:\Users\Rajeev\AppData\Local\Temp\Web Page Maker\doc2U3V4\NavVTH89" left="86" top="367" fp="0" exportfilename="images/nav350391926" exportsound=""/><Component type="2" id="text2" zorder="3" filename="text350391911" left="317" top="357" width="267" height="52" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" style="font-size:37px;"&gt;&lt;B&gt;Skills&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" class="ws28"&gt;&lt;B&gt;Skills&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCHAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xC
+bGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANClNraWxscw0K
+</rvf></Component><Component type="2" id="text3" zorder="4" filename="text350391911" left="321" top="427" width="806" height="172" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSA0IDAgMCAwDQoNCg==
+</rvf></Component><Component id="g_image1" zorder="5" global="1"/></body></page><page id="p350417854" pageindex="5" name="Hobbies" pp="0" cp="0" Freq="4" Priority="6"><body bgoutput="" bgsoutput="" generator="0" bgsoundloop="-1" align="0" backgroundcolor="" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" title="Hobbies"><Component type="4" id="shape1" zorder="0" filename="shape350417854" width="1362" height="295" bgcolor="#424441" previewfile="" left="0" top="0" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape350417854.png" fp="0"/><Component type="2" id="text1" zorder="6" filename="text350417854" left="181" top="69" width="652" height="143" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:48px;"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws36"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpSYWplZXYgUmVk
+ZHkgQmhlZW1pcmVkZHkNCg==
+</rvf></Component><Component type="12" id="html1" zorder="1" filename="html350417854" script="&lt;a href=&quot;http://www.freecounterstat.com&quot; title=&quot;website hit counter&quot;&gt;&lt;img src=&quot;http://counter6.statcounterfree.com/private/freecounterstat.php?c=da63c824083677e794062ecd37b3e11b&quot; border=&quot;0&quot; title=&quot;website hit counter&quot; alt=&quot;website hit counter&quot;&gt;&lt;/a&gt;" width="200" height="125" left="1157" top="579"/><Component type="5" id="nav1" zorder="2" filename="nav350417854" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05in.gif" mouseoverimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05over.gif" mouseoversound="" navtext0="Home" navurl0="page://p321606029" navtarget0="" navstate0="0" navtext1="Areas of Interest" navurl1="page://p333874338" navtarget1="" navstate1="0" navtext2="Work Experience" navurl2="page://p350051251" navtarget2="" navstate2="0" navtext3="Academic Projects" navurl3="page://p350383331" navtarget3="" navstate3="0" navtext4="Skills" navurl4="page://p350391911" navtarget4="" navstate4="0" navtext5="Hobbies" navurl5="page://p350417854" navtarget5="" navstate5="0" navtext6="Contact " navurl6="page://p350427058" navtarget6="" navstate6="0" navcount="7" width="180" height="231" preview="C:\Users\Rajeev\AppData\Local\Temp\Web Page Maker\doc2U3V4\Nav5HP3D" left="86" top="367" fp="0" exportfilename="images/nav350417854" exportsound=""/><Component type="2" id="text2" zorder="3" filename="text350417854" left="317" top="357" width="267" height="52" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" style="font-size:37px;"&gt;&lt;B&gt;Hobbies&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" class="ws28"&gt;&lt;B&gt;Hobbies&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCHAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xC
+bGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkhvYmJpZXMN
+Cg==
+</rvf></Component><Component type="2" id="text3" zorder="4" filename="text350417854" left="321" top="427" width="806" height="172" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSA0IDAgMCAwDQoNCg==
+</rvf></Component><Component id="g_image1" zorder="5" global="1"/></body></page><page id="p350427058" pageindex="6" name="Contact" pp="0" cp="0" Freq="4" Priority="6"><body bgoutput="" bgsoutput="" generator="0" bgsoundloop="-1" align="0" backgroundcolor="" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgimage="" bgpreview="" headcode="" title="Contact" author="Rajeev Reddy Bheemireddy" keywords="contact details, Email, id, LinkedIn, phone" bgp="0"><Component type="4" id="shape1" zorder="0" filename="shape350427073" width="1362" height="295" bgcolor="#424441" previewfile="" left="0" top="0" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape350427073.png" fp="0"/><Component type="2" id="text1" zorder="6" filename="text350427073" left="186" top="69" width="652" height="143" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:48px;"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws36"&gt;&lt;B&gt;Rajeev Reddy Bheemireddy&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpSYWplZXYgUmVk
+ZHkgQmhlZW1pcmVkZHkNCg==
+</rvf></Component><Component type="12" id="html1" zorder="1" filename="html350427073" script="&lt;a href=&quot;http://www.freecounterstat.com&quot; title=&quot;website hit counter&quot;&gt;&lt;img src=&quot;http://counter6.statcounterfree.com/private/freecounterstat.php?c=da63c824083677e794062ecd37b3e11b&quot; border=&quot;0&quot; title=&quot;website hit counter&quot; alt=&quot;website hit counter&quot;&gt;&lt;/a&gt;" width="200" height="125" left="1157" top="579"/><Component type="5" id="nav1" zorder="2" filename="nav350427073" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05in.gif" mouseoverimage="C:\Users\Rajeev\Documents\Web Page Maker\Navbar\rectb05over.gif" mouseoversound="" navtext0="Home" navurl0="page://p321606029" navtarget0="" navstate0="0" navtext1="Areas of Interest" navurl1="page://p333874338" navtarget1="" navstate1="0" navtext2="Work Experience" navurl2="page://p350051251" navtarget2="" navstate2="0" navtext3="Academic Projects" navurl3="page://p350383331" navtarget3="" navstate3="0" navtext4="Skills" navurl4="page://p350391911" navtarget4="" navstate4="0" navtext5="Hobbies" navurl5="page://p350417854" navtarget5="" navstate5="0" navtext6="Contact " navurl6="page://p350427058" navtarget6="" navstate6="0" navcount="7" width="180" height="231" preview="C:\Users\Rajeev\AppData\Local\Temp\Web Page Maker\doc2U3V4\NavN9FR5" left="86" top="367" fp="0" exportfilename="images/nav350427073" exportsound=""/><Component type="2" id="text2" zorder="3" filename="text350427058" left="317" top="357" width="267" height="52" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" style="font-size:37px;"&gt;&lt;B&gt;Contact Details&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Calibri" class="ws28"&gt;&lt;B&gt;Contact Details&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoCAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCHAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xC
+bGFjawAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkNvbnRhY3Qg
+RGV0YWlscw0K
+</rvf></Component><Component type="2" id="text3" zorder="4" filename="text350427058" left="321" top="427" width="806" height="172" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;Email Id Personal:&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;a href="mailto:rajeevbreddy@gmail.com" title=""&gt;rajeevbreddy@gmail.com&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;Email Id Office:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;a href="mailto:rreddy@e-heli.nl" title="Office mail address"&gt;rreddy@e-heli.nl&lt;/a&gt;&lt;/font&gt;&lt;font face="Calibri" style="font-size:16px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;Email Id Secondary: &lt;/font&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;a href="mailto:rajeevbreddy@yahoo.co.in" title=""&gt;rajeevbreddy@yahoo.co.in&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;LinkedIn:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;a href="https://www.linkedin.com/in/rajeevbreddy" title=""&gt;https://www.linkedin.com/in/rajeevbreddy&lt;/a&gt;&lt;/font&gt;&lt;font face="Calibri" style="font-size:16px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;Email Id Personal:&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;a href="mailto:rajeevbreddy@gmail.com" title=""&gt;rajeevbreddy@gmail.com&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;Email Id Office:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;a href="mailto:rreddy@e-heli.nl" title="Office mail address"&gt;rreddy@e-heli.nl&lt;/a&gt;&lt;/font&gt;&lt;font face="Calibri" class="ws12"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;Email Id Secondary: &lt;/font&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;a href="mailto:rajeevbreddy@yahoo.co.in" title=""&gt;rajeevbreddy@yahoo.co.in&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;LinkedIn:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;a href="https://www.linkedin.com/in/rajeevbreddy" title=""&gt;https://www.linkedin.com/in/rajeevbreddy&lt;/a&gt;&lt;/font&gt;&lt;font face="Calibri" class="ws12"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpWAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDAVTdHlsZQsLZnNVbmRlcmxpbmUABUNv
+bG9yBwZjbEJsdWUESnVtcAkLTmV4dFN0eWxlTm8CAwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGln
+bghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFKdXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSA0IDAgMCAwDQpFbWFpbCBJZCBQZXJzb25hbDogICAg
+DQo0IDEgLTEgMSAwICJ1cmw9bWFpbHRvOnJhamVldmJyZWRkeUBnbWFpbC5jb20iDQpyYWplZXZi
+cmVkZHlAZ21haWwuY29tDQozIDEgNCAwIDAgMA0KRW1haWwgSWQgT2ZmaWNlOiAgICAgICAgDQo0
+IDEgLTEgMSAwICJ1cmw9bWFpbHRvOnJyZWRkeUBlLWhlbGkubmwsIiJ0aXRsZT1PZmZpY2UgbWFp
+bCBhZGRyZXNzIiIiDQpycmVkZHlAZS1oZWxpLm5sDQozIDEgLTEgMSAwIDANCiANCjMgMSA0IDAg
+MCAwDQpFbWFpbCBJZCBTZWNvbmRhcnk6IA0KNCAxIC0xIDEgMCAidXJsPW1haWx0bzpyYWplZXZi
+cmVkZHlAeWFob28uY28uaW4iDQpyYWplZXZicmVkZHlAeWFob28uY28uaW4NCjMgMiA0IDAgMCAw
+DQogICAgICAgICAgICAgICANCkxpbmtlZEluOiAgICAgICAgICAgICAgICAgIA0KNCAxIC0xIDEg
+MCAidXJsPWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9yYWplZXZicmVkZHkiDQpodHRwczov
+L3d3dy5saW5rZWRpbi5jb20vaW4vcmFqZWV2YnJlZGR5DQozIDEgLTEgMSAwIDANCiANCjMgMiA0
+IDAgMCAwDQoNCg0K
+</rvf></Component><Component id="g_image1" zorder="5" global="1"/></body></page></site>
